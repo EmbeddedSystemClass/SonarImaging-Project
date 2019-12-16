@@ -1,3 +1,3 @@
 # SonarImaging-Project
 
-This project invoves the implementation of a @D Direction finding Sonar
+This project invoves the implementation of a 2D Direction finding Sonar
